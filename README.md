@@ -1,7 +1,9 @@
+
+
 ```markdown
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=250&section=header&text=NATEFROG&fontSize=90&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=⚡ TECH ALCHEMIST • REALITY ENGINEER • NEURAL ARCHITECT ⚡&descAlignY=60&descSize=15" width="100%" />
-</div>
+# 🌊 Natefrog 🐸
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=250&section=header&text=NATEFROG&fontSize=90&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=⚡%20TECH%20ALCHEMIST%20•%20REALITY%20ENGINEER%20•%20NEURAL%20ARCHITECT%20⚡&descAlignY=60&descSize=15)
 
 <p align="center">
   <a href="https://twitter.com/leapfrog_89"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
@@ -9,19 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=natefrog808&style=for-the-badge&color=blueviolet" />
 </p>
 
-<br>
-
-<div align="center">
+<p align="center">
   <img width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazIxcWlwaWVoZXB5bnNnZ3RlMnY3ajZwdm5pZ2Nlcjk1azdicnIxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
   <img width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c1dmtnZmdqOTM2N2RqMHEzZG9ncDR2cXB0NWRzNHk1Nnd1cmtzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" />
-</div>
-
-<br>
+</p>
 
 > _"We stand at the threshold between worlds—where digital architecture meets cognitive evolution. I build the bridges between these realms."_
 <p align="right"><i>— watching the patterns in the waves from Lahaina 🌊</i></p>
-
-<br>
 
 ## ⚡ CORE SYSTEMS 
 
@@ -75,30 +71,18 @@ class RealityWeaver implements Consciousness {
 </tr>
 </table>
 
-<br>
-
 ## 🚀 FLAGSHIP PROJECTS
-
-<div align="center">
 
 | Project | Tech | Status | Description |
 |---------|------|--------|-------------|
-| [**Cognitive-Interfacing-Protocol**](https://github.com/natefrog808/Cognitive-Interfacing-Protocol) | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/STATUS-EVOLVING-8A2387?style=flat-square" /> | Breakthrough system fusing BitECS with Daydreams' cross-chain architecture, creating transformer-powered neural sync with quantum-inspired entanglement |
-| [**ChronoWeave**](https://github.com/natefrog808/ChronoWeave) | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/STATUS-SIMULATING-E94057?style=flat-square" /> | Interactive historical simulation platform exploring butterfly effects and timeline manipulation through advanced quantum algorithms |
-| [**Visually-aware-agent**](https://github.com/natefrog808/Visually-aware-agent) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/STATUS-PERCEIVING-F27121?style=flat-square" /> | Revolutionary framework for AI agents capable of understanding and manipulating graphical interfaces through neural-inspired perception systems |
-| [**MYCELIUM**](https://github.com/natefrog808/MYCELIUM) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/STATUS-GROWING-00C853?style=flat-square" /> | Biomimetic network bridging the gap between technology and natural systems through decentralized intelligence inspired by fungal communication |
-
-</div>
-
-<br>
+| [**Cognitive-Interfacing-Protocol**](https://github.com/natefrog808/Cognitive-Interfacing-Protocol) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Status](https://img.shields.io/badge/STATUS-EVOLVING-8A2387?style=flat-square) | Breakthrough system fusing BitECS with Daydreams' cross-chain architecture, creating transformer-powered neural sync with quantum-inspired entanglement |
+| [**ChronoWeave**](https://github.com/natefrog808/ChronoWeave) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Status](https://img.shields.io/badge/STATUS-SIMULATING-E94057?style=flat-square) | Interactive historical simulation platform exploring butterfly effects and timeline manipulation through advanced quantum algorithms |
+| [**Visually-aware-agent**](https://github.com/natefrog808/Visually-aware-agent) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Status](https://img.shields.io/badge/STATUS-PERCEIVING-F27121?style=flat-square) | Revolutionary framework for AI agents capable of understanding and manipulating graphical interfaces through neural-inspired perception systems |
+| [**MYCELIUM**](https://github.com/natefrog808/MYCELIUM) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Status](https://img.shields.io/badge/STATUS-GROWING-00C853?style=flat-square) | Biomimetic network bridging the gap between technology and natural systems through decentralized intelligence inspired by fungal communication |
 
 ## 🌌 TECH COSMOS
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,js,react,nodejs,nextjs,tensorflow,aws,docker,mongodb,firebase,vscode&theme=dark&perline=6" />
-</div>
-
-<br>
+![Skills](https://skillicons.dev/icons?i=ts,python,js,react,nodejs,nextjs,tensorflow,aws,docker,mongodb,firebase,vscode&theme=dark&perline=6)
 
 ## 📊 SYSTEM PERFORMANCE
 
@@ -106,8 +90,6 @@ class RealityWeaver implements Consciousness {
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natefrog808&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7D3C98&icon_color=7D3C98&text_color=FFFFFF" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=natefrog808&theme=tokyonight&hide_border=true&background=0D1117&ring=7D3C98&fire=7D3C98&currStreakLabel=7D3C98" />
 </p>
-
-<br>
 
 ## 🌊 CURRENT TRANSMISSION
 
@@ -123,19 +105,14 @@ current_state = {
 # TIMESTAMP: CONTINUOUSLY UPDATING
 ```
 
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20walls%20between%20digital%20and%20physical%20reality%20are%20merely%20convention.%20True%20innovation%20happens%20when%20we%20dissolve%20these%20boundaries.&author=Natefrog%20%7C%20Neural%20Architect" width="70%" />
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/natefrog808"><img src="https://img.shields.io/badge/Connecting_dimensions_since-2022-7D3C98?style=for-the-badge" /></a>
-</div>
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7D3C98,50:E94057,100:F27121&height=150&section=footer&reversal=true" width="100%" />
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7D3C98,50:E94057,100:F27121&height=150&section=footer&reversal=true)
 ```
+
