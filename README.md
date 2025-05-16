@@ -67,10 +67,3 @@
 
 ![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 ```
-
-You can now copy this entire content by:
-1. Selecting all the text inside the code block (starting and ending with three backticks)
-2. Using Ctrl+C (or Cmd+C on Mac) to copy it
-3. Pasting it into your GitHub README.md file
-
-Remember to create a repository with your exact username "natefrog808" if you haven't already done so.
