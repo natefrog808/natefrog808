@@ -1,49 +1,9 @@
-I apologize for the difficulty. Let me provide the GitHub profile README directly in this message so you can copy it more easily:
-
 ```markdown
-# 🌊 Nathan "Natefrog" 🐸
+# 🌊 Natefrog 🐸
 
-<div align="center">
-  
-![Hacker Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJjY3hjNXhqYWdkOGkwN3BsNHpvbnZ3ZXdwMHM2c29iNnZrZTRnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif)
-
-[![Twitter: leapfrog_89](https://img.shields.io/badge/-@leapfrog__89-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/leapfrog_89)
-[![Twitter: reefchaingang](https://img.shields.io/badge/-@reefchaingang-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/reefchaingang)
-[![GitHub: natefrog808](https://img.shields.io/github/followers/natefrog808?label=follow&style=social)](https://github.com/natefrog808)
-
-</div>
-
-## 🧠 Tech Alchemist | 🌐 Distributed Systems Engineer | 🦑 Reality Hacker
+## 🧠 Tech Alchemist | 🌐 Distributed Systems Engineer | 🦑 Culture Hacker
 
 _Building bridges between cognition and computation while watching the waves in Lahaina_ 🏄‍♂️
-
----
-
-### 🔮 What I Do
-
-```typescript
-class TechAlchemist {
-  private skills: string[] = [
-    'TypeScript', 'Python', 'JavaScript', 
-    'Neural Interfaces', 'Blockchain',
-    'Entity Component Systems', 'AI'
-  ];
-  
-  private currentFocus: string = 'Building cognitive interfaces between humans and digital systems';
-  
-  constructor() {
-    console.log('Initializing reality distortion field...');
-  }
-  
-  public createMagic(): void {
-    console.log('Transmuting ideas into digital reality...');
-  }
-}
-
-// Instantiate me
-const nathan = new TechAlchemist();
-nathan.createMagic();
-```
 
 ---
 
