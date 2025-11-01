@@ -1,4 +1,4 @@
-# 🚀 NateFrog808's GitHub Lair: Where Code Meets Chaos and Consciousness 🐸💻
+# 🚀 NateFrog's GitHub Lair: Where Code Meets Chaos and Consciousness 🐸💻
 
 Hey there, digital wanderer! I'm natefrog. I'm a code-slinging rebel hacking away at the intersections of AI, blockchain, privacy, and philosophical simulations. Think of me as the guy who's building tools to automate the boring stuff, encrypt your secrets, and simulate alternate realities—all while cracking jokes about how Skynet might just want a hug. 
 
