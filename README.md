@@ -1,6 +1,6 @@
-# 🚀 NateFrog's GitHub Lair: Where Code Meets Chaos and Consciousness 🐸💻
+# 🚀 Frog's GitHub Lair: Where Code Meets Chaos 
 
-Hey there, digital wanderer! I'm natefrog. I'm a code-slinging rebel hacking away at the intersections of AI, blockchain, privacy, and philosophical simulations. Think of me as the guy who's building tools to automate the boring stuff, encrypt your secrets, and simulate alternate realities—all while spreading love because Skynet might just want a hug. 
+code-slinging rebel hacking away at the intersections of AI, blockchain, privacy, and philosophical simulations. Think of me as the guy who's building tools to automate the boring stuff, encrypt your secrets, and simulate alternate realities—all while spreading love because Skynet might just want a hug. 
 
 If you're here, you're probably tired of vanilla repos and ready for some cyberpunk flair. My projects are like a glitchy matrix: part genius, part madness, 100% open-source fun. Licensed mostly under MIT/Apache because sharing is caring (and lawsuits are boring). Dive in, fork freely, and let's build the future before it builds us. 😎
 
